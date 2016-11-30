@@ -1,2 +1,5 @@
 # hello-world
-Description of the repository
+
+Hi,
+
+My name is Sherif and I am trying GitHub features
